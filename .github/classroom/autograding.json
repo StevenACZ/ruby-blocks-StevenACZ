@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "My Map",
+      "setup": "",
+      "run": "ruby 12my_map/my_map_test.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "My All",
+      "setup": "",
+      "run": "ruby 13my_all/my_all_test.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "My Any",
+      "setup": "",
+      "run": "ruby 14my_any/my_any_test.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "My Select",
+      "setup": "",
+      "run": "ruby 15my_select/my_select_test.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "My Find",
+      "setup": "",
+      "run": "ruby 16my_find/my_find_test.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    }
+  ]
+}
