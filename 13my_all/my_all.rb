@@ -7,7 +7,3 @@ def my_all?(array, &block)
   end
   result
 end
-
-numbers = [1, 2, 3, 5]
-new_arr = my_all?(numbers) { |number| number.is_a?(Integer) } # => true
-p my_all?(numbers) { |number| number < 4 } # => false
